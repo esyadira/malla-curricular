@@ -56,7 +56,7 @@ const cursos = [
   [7, "Seguridad Informática", "seguridad", ["redes1"]],
 
   [8, "Herramientas para la comunicación Efectiva", "efectiva", ["integ1"]],
-  [8, "Calidad de Software", "riesgos", ["soft", "seguridad"]],
+  [8, "Calidad de Software", "riesgo", ["soft", "seguridad"]],
   [8, "Gestión de Riesgos Informáticos", "riesgos", ["analisis", "gestion"]],
   [8, "Planeamiento Estratégico de las TICs", "planeamiento", ["gestion"]],
   [8, "Diseño e Implementación de Arquitectura Empresarial", "empresa", ["soft"]],
